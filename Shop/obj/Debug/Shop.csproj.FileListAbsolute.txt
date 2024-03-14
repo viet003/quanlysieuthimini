@@ -1,0 +1,182 @@
+D:\Quanly\Shop\Shop\bin\Debug\Shop.exe.config
+D:\Quanly\Shop\Shop\bin\Debug\Shop.exe
+D:\Quanly\Shop\Shop\bin\Debug\Shop.pdb
+D:\Quanly\Shop\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+D:\Quanly\Shop\Shop\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+D:\Quanly\Shop\Shop\obj\Debug\Form_dangnhap.g.cs
+D:\Quanly\Shop\Shop\obj\Debug\App.g.cs
+D:\Quanly\Shop\Shop\obj\Debug\Shop_MarkupCompile.cache
+D:\Quanly\Shop\Shop\obj\Debug\Shop_MarkupCompile.lref
+D:\Quanly\Shop\Shop\obj\Debug\Form_dangnhap.baml
+D:\Quanly\Shop\Shop\obj\Debug\Shop.g.resources
+D:\Quanly\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\Quanly\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+D:\Quanly\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\Quanly\Shop\Shop\obj\Debug\Shop.exe
+D:\Quanly\Shop\Shop\obj\Debug\Shop.pdb
+D:\Quanly\Shop\Shop\obj\Debug\Form_dangky.g.cs
+D:\Quanly\Shop\Shop\obj\Debug\Form_dangky.baml
+D:\Quanly\Shop\Shop\obj\Debug\Form_Menu.g.cs
+D:\Quanly\Shop\Shop\obj\Debug\Form_Menu.baml
+D:\Quanly\Shop\Shop\obj\Debug\Styles\Color.baml
+D:\Quanly\Shop\Shop\obj\Debug\App.baml
+D:\Quanly\Shop\Shop\bin\Debug\FontAwesome.Sharp.dll
+D:\Quanly\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+D:\Quanly\Shop\Shop\obj\Debug\Styles\ButtonStyle.baml
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Donhang.g.cs
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Nhanvien.g.cs
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Nhaphang.g.cs
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Thongke.g.cs
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Donhang.baml
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Nhanvien.baml
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Nhaphang.baml
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Thongke.baml
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Banhang.g.cs
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Quanlykho.g.cs
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Banhang.baml
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Quanlykho.baml
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Taikhoan.g.cs
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Taikhoan.baml
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Loaihanghoa.g.cs
+D:\Quanly\Shop\Shop\obj\Debug\Child_view\Form_Loaihanghoa.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\bin\Debug\Shop.exe.config
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\bin\Debug\Shop.exe
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\bin\Debug\Shop.pdb
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\bin\Debug\FontAwesome.Sharp.dll
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Styles\ButtonStyle.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Styles\Color.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Banhang.g.cs
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Donhang.g.cs
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Loaihanghoa.g.cs
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Nhanvien.g.cs
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Nhaphang.g.cs
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Quanlykho.g.cs
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Taikhoan.g.cs
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Thongke.g.cs
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Form_dangky.g.cs
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Form_dangnhap.g.cs
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Form_Menu.g.cs
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\App.g.cs
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Shop_MarkupCompile.cache
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Shop_MarkupCompile.lref
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\App.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Banhang.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Donhang.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Loaihanghoa.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Nhanvien.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Nhaphang.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Quanlykho.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Taikhoan.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Thongke.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Form_dangky.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Form_dangnhap.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Form_Menu.baml
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Shop.g.resources
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Shop.exe
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Shop.pdb
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Bophan.g.cs
+D:\Quanly\BTL_Nhom 1_QuanLyCuaHangTienLoi_N05\Shop\Shop\obj\Debug\Child_view\Form_Bophan.baml
+D:\Shop\Shop\bin\Debug\Shop.exe.config
+D:\Shop\Shop\bin\Debug\Shop.exe
+D:\Shop\Shop\bin\Debug\Shop.pdb
+D:\Shop\Shop\bin\Debug\FontAwesome.Sharp.dll
+D:\Shop\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+D:\Shop\Shop\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+D:\Shop\Shop\obj\Debug\Styles\ButtonStyle.baml
+D:\Shop\Shop\obj\Debug\Styles\Color.baml
+D:\Shop\Shop\obj\Debug\Child_view\Form_Banhang.g.cs
+D:\Shop\Shop\obj\Debug\Child_view\Form_Bophan.g.cs
+D:\Shop\Shop\obj\Debug\Child_view\Form_Donhang.g.cs
+D:\Shop\Shop\obj\Debug\Child_view\Form_Loaihanghoa.g.cs
+D:\Shop\Shop\obj\Debug\Child_view\Form_Nhanvien.g.cs
+D:\Shop\Shop\obj\Debug\Child_view\Form_Nhaphang.g.cs
+D:\Shop\Shop\obj\Debug\Child_view\Form_Quanlykho.g.cs
+D:\Shop\Shop\obj\Debug\Child_view\Form_Taikhoan.g.cs
+D:\Shop\Shop\obj\Debug\Child_view\Form_Thongke.g.cs
+D:\Shop\Shop\obj\Debug\Form_dangky.g.cs
+D:\Shop\Shop\obj\Debug\Form_dangnhap.g.cs
+D:\Shop\Shop\obj\Debug\Form_Menu.g.cs
+D:\Shop\Shop\obj\Debug\App.g.cs
+D:\Shop\Shop\obj\Debug\Shop_MarkupCompile.cache
+D:\Shop\Shop\obj\Debug\Shop_MarkupCompile.lref
+D:\Shop\Shop\obj\Debug\App.baml
+D:\Shop\Shop\obj\Debug\Child_view\Form_Banhang.baml
+D:\Shop\Shop\obj\Debug\Child_view\Form_Bophan.baml
+D:\Shop\Shop\obj\Debug\Child_view\Form_Donhang.baml
+D:\Shop\Shop\obj\Debug\Child_view\Form_Loaihanghoa.baml
+D:\Shop\Shop\obj\Debug\Child_view\Form_Nhanvien.baml
+D:\Shop\Shop\obj\Debug\Child_view\Form_Nhaphang.baml
+D:\Shop\Shop\obj\Debug\Child_view\Form_Quanlykho.baml
+D:\Shop\Shop\obj\Debug\Child_view\Form_Taikhoan.baml
+D:\Shop\Shop\obj\Debug\Child_view\Form_Thongke.baml
+D:\Shop\Shop\obj\Debug\Form_dangky.baml
+D:\Shop\Shop\obj\Debug\Form_dangnhap.baml
+D:\Shop\Shop\obj\Debug\Form_Menu.baml
+D:\Shop\Shop\obj\Debug\Shop.g.resources
+D:\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+D:\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+D:\Shop\Shop\obj\Debug\Shop.exe
+D:\Shop\Shop\obj\Debug\Shop.pdb
+D:\Shop\Shop\bin\Debug\LiveCharts.dll
+D:\Shop\Shop\bin\Debug\LiveCharts.Wpf.dll
+D:\Shop\Shop\bin\Debug\LiveCharts.pdb
+D:\Shop\Shop\bin\Debug\LiveCharts.xml
+D:\Shop\Shop\bin\Debug\LiveCharts.Wpf.pdb
+D:\Shop\Shop\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\bin\Debug\LiveCharts.dll
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\bin\Debug\LiveCharts.pdb
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\bin\Debug\LiveCharts.xml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Styles\ButtonStyle.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Styles\Color.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Banhang.g.cs
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Bophan.g.cs
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Donhang.g.cs
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Loaihanghoa.g.cs
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Nhanvien.g.cs
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Nhaphang.g.cs
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Quanlykho.g.cs
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Taikhoan.g.cs
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Thongke.g.cs
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Form_dangky.g.cs
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Form_dangnhap.g.cs
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Form_Menu.g.cs
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Shop_MarkupCompile.cache
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Shop_MarkupCompile.lref
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\App.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Banhang.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Bophan.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Donhang.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Loaihanghoa.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Nhanvien.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Nhaphang.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Quanlykho.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Taikhoan.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Child_view\Form_Thongke.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Form_dangky.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Form_dangnhap.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Form_Menu.baml
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Shop.g.resources
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\Admin\Desktop\Doancoso\Shop\Shop\obj\Debug\Shop.pdb
